@@ -1,2 +1,1 @@
-# Trex-a-color
-clase 18
+# PROC18_LP_AM1
